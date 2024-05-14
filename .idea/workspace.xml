@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08a39a6a-e7cb-4082-b207-12f3cf1f5265" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVAMST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week1/Assignments/Day1/LeapYear/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week1/Practice/Intro/Languages.java" afterDir="false" />
-    </list>
+    <list default="true" id="08a39a6a-e7cb-4082-b207-12f3cf1f5265" name="Changes" comment="Day 1 - Practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,8 +48,16 @@
       <option name="presentableId" value="Default" />
       <updated>1715703221322</updated>
       <workItem from="1715703223607" duration="1717000" />
-      <workItem from="1715715407072" duration="1562000" />
+      <workItem from="1715715407072" duration="2098000" />
     </task>
+    <task id="LOCAL-00001" summary="Day 1 - Practice">
+      <created>1715717166055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715717166055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1 - Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1 - Practice" />
   </component>
 </project>
