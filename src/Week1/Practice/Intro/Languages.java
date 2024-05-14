@@ -27,10 +27,18 @@ public class Languages {
         // - Declare datatype before you use it
         // - More control
 
+        // ex.
+        // int a = 9
+        // a = "Jorge" <-- Since the datatype is defined it can not be assigned to string
+
         // ----- Dynamic ------
         // - Perform type checking at runtime
         // - Error might not show up until the program is run
         // - No need to declare datatype or variables
         // - Saves time in writing code but might throw an error at runtime
+
+        // ex.
+        // a = 9
+        // a = "Jorge" <-- This will work
     }
 }
